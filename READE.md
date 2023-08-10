@@ -1,1 +1,1 @@
-# this is the course reposetoriy
+# this is the course repository
